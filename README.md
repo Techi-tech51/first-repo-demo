@@ -1,3 +1,3 @@
 # first-repo-demo
-This is my first Git Repository demo
+This is my first Git Demo Repository.
 Author - Techi - tech
